@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+    color: black;
+    margin: 5px;
+    padding: 2px;
+}
+header,
+footer{
+    text-align: center;
+    background-color:aquamarine;
+}
+
+
+h2,h3,h4{
+    color: antiquewhite;
+    text-decoration-line:underline ;
+}
+p{
+    text-align: justify;
+    text-indent: 8ch;
+}
