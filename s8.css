@@ -39,3 +39,11 @@ p::first-letter {
 section:hover {
     background-color: antiquewhite;
 }
+.myimage-div
+{
+display: none;
+}
+a.myimage-ssilka:hover+div
+{
+display: block;
+}
